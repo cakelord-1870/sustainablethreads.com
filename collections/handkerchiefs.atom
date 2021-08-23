@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sustainablethreads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sustainablethreads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sustainablethreads.com/collections/handkerchiefs.atom"/>
+  <title>SustainableThreads</title>
+  <updated>2019-06-09T16:47:38-04:00</updated>
+  <author>
+    <name>SustainableThreads</name>
+  </author>
+  <entry>
+    <id>https://sustainablethreads.com/products/1605595299895</id>
+    <published>2019-06-09T16:47:38-04:00</published>
+    <updated>2019-06-09T16:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/seattle-handkerchief-set-of-3"/>
+    <title>SEATTLE Handkerchief (Set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-14-SE.SEATTLE.HANKIES.jpg?v=1619053279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p><span>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these</span><span> </span><span>stylish </span><span>handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Unisex.  </span></p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br><br>Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1605595299895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-14-SE</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1605588942903</id>
+    <published>2019-06-09T16:46:14-04:00</published>
+    <updated>2019-06-09T16:46:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/charlotte-handkerchief-set-of-3"/>
+    <title>CHARLOTTE Handkerchief (Set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-07-KC-HANKIES.jpg?v=1619053000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p><span>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these stylish handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Unisex.   </span></p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br><br>Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1605588942903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-07-KC</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1605580619831</id>
+    <published>2019-06-09T16:43:55-04:00</published>
+    <updated>2019-06-09T16:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/austin-handkerchief-set-of-3"/>
+    <title>AUSTIN Handkerchief (Set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-04-KC-HANKIES.jpg?v=1619052857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these stylish handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Unisex.</p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br> <br> Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1605580619831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-04-KC</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432708087863</id>
+    <published>2017-09-30T19:49:39-04:00</published>
+    <updated>2017-09-30T19:49:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/chicago"/>
+    <title>CHICAGO Handkerchief (set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-06-CH.CHICAGO.HANKIES.jpg?v=1619053135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p><span>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these</span><span> </span><span>stylish </span><span>handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Unisex.  </span></p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br><br>Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432708087863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-06-CH</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432708055095</id>
+    <published>2017-09-30T19:49:39-04:00</published>
+    <updated>2017-09-30T19:49:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/wellington"/>
+    <title>WELLINGTON Handkerchief (Set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-05-WE.WELLINGTON.HANKIES.jpg?v=1619053382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p><span>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these</span><span> </span><span>stylish </span><span>handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Unisex. </span></p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br><br>Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432708055095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-05-WE</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707891255</id>
+    <published>2017-09-30T19:49:38-04:00</published>
+    <updated>2017-09-30T19:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/brooklyn"/>
+    <title>BROOKLYN Handkerchief (Set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-02-BR-HANKIES.jpg?v=1619052888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p><span>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these</span><span> </span><span>stylish </span><span>handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Makes a great gift for women and men.  </span></p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br><br>Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707891255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-02-BR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707825719</id>
+    <published>2017-09-30T19:49:38-04:00</published>
+    <updated>2017-09-30T19:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/cambridge"/>
+    <title>CAMBRIDGE Handkerchief (Set of 3)</title>
+    <s:type>Handkerchiefs</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/302-01-MR-HANKIES.jpg?v=1619052915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cotton)<br>
+        <strong>Type: </strong>Handkerchiefs<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 9"x9"<br>100% cotton<br>Handwoven finely on bamboo looms<br>Low-impact dyes<br>Machine wash cold, delicate cycle. Tumble dry low<br>Crafted by indigenous women weavers from Eastern India<br>Set of 3  </p>
+<h5>Description  </h5>
+<p><span>Handkerchiefs are a great alternative to disposable tissues. Elegant colors and soft texture are only a couple of reasons to desire these</span><span> </span><span>stylish </span><span>handwoven hankies. Eco-friendly, superior absorption and durability are some others. A handy item on the go, use it to wipe your hands and face or use as a mini washcloth when those unexpected spills happen. Unisex.</span></p>
+<p>A Fair Trade product. Handmade by artisans in India.   </p>
+<h5>How It's Made </h5>
+<p>Indigenous women weavers from Eastern India have skillfully crafted this product on hand-operated frame looms. These looms are made using bamboo and other locally available materials. The artisans carefully string cotton yarn vertically upon the loom to create the warp. They then weave horizontal interlacing threads (weft), creating expressive, decorative patterns. <br><br>Depending on the design, either a single color in the warp and a different color in the weft; a single color in the warp and multiple colors in the weft; or multiple colors both in the warp and weft are strung. Determination of how close the warp yarns will be placed next to each other, precise calculation of where the next color thread will be incorporated (e.g. 1-inch stripes,) and careful calculation for minimal loom waste are some other steps of the process. Handweaving is unforgiving as once woven, weaves can't be undone.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9&quot;x9&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Handkerchief</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707825719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>302-01-MR</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

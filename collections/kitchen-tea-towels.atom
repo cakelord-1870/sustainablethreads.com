@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sustainablethreads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sustainablethreads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sustainablethreads.com/collections/kitchen-tea-towels.atom"/>
+  <title>SustainableThreads</title>
+  <updated>2017-09-30T19:23:36-04:00</updated>
+  <author>
+    <name>SustainableThreads</name>
+  </author>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698781751</id>
+    <published>2017-09-30T19:23:36-04:00</published>
+    <updated>2017-09-30T19:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/eggplant"/>
+    <title>EGGPLANT Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-12-KT-EGGPLANT-1.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698781751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-12-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698716215</id>
+    <published>2017-09-30T19:23:21-04:00</published>
+    <updated>2017-09-30T19:23:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/parsley"/>
+    <title>PARSLEY Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-11-KT.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698716215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-11-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698683447</id>
+    <published>2017-09-30T19:23:06-04:00</published>
+    <updated>2017-09-30T19:23:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/chai"/>
+    <title>CHAI Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-10-KT.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:tag>Kroger</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698683447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-10-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698650679</id>
+    <published>2017-09-30T19:22:40-04:00</published>
+    <updated>2017-09-30T19:22:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/bay-leaf"/>
+    <title>BAY LEAF Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-09-KT-BAY-LEAF-1.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br> 100% cotton<br> Handwoven on manual looms<br> Features a loop for hanging<br> Strong, durable construction<br> Low-impact dyes<br> Machine wash cold. Tumble dry low<br> Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:tag>Kroger</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698650679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-09-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698519607</id>
+    <published>2017-09-30T19:22:09-04:00</published>
+    <updated>2017-09-30T19:22:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/sky"/>
+    <title>SKY Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-07-KT.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The initiative offers them employment and life skills training and means to financial independence and social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698519607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-07-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698421303</id>
+    <published>2017-09-30T19:21:31-04:00</published>
+    <updated>2017-09-30T19:21:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/tomato"/>
+    <title>TOMATO Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-05-KT.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:tag>Kroger</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698421303</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-05-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698388535</id>
+    <published>2017-09-30T19:21:19-04:00</published>
+    <updated>2017-09-30T19:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/sage"/>
+    <title>SAGE Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-03-KTSAGE.jpg?v=1587074090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698388535</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-03-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698355767</id>
+    <published>2017-09-30T19:21:03-04:00</published>
+    <updated>2017-09-30T19:21:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/blueberry-2"/>
+    <title>BLUEBERRY Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-02-KT.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698355767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-02-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1505094172727</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/maya-kitchen-towel"/>
+    <title>MAYA Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Tribal Spinner&apos;s Initiative (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-71-KT.Maya.jpg?v=1571609964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tribal Spinner&#39;s Initiative (Cotton)<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handspun<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low <br>Crafted by rural and tribal artisans from Northern India</p>
+<h5>Description </h5>
+<p><span>Remarkably soft, this attractive kitchen towel offers a distinct texture obtained from handspun yarn and showcases the splendor of hand-done weaves. </span><span>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</span></p>
+<p>A Fair Trade product. Handmade by artisans in India. </p>
+<h5>How It's Made </h5>
+<p>First, the yarn is handspun. A blend of handspun and conventional yarn is used. This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft,) meticulous planning and a complex estimation, depending on the design.  </p>
+<p>Each of the steps - spinning of the yarn, dyeing with low impact Azo-free dyes and weaving the products on wooden pit looms - support local artisan livelihood. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:tag>Kroger</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1505094172727</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>251-71-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1505056915511</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/fern-kitchen-towel"/>
+    <title>FERN Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Tribal Spinner&apos;s Initiative (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-72-KT.Fern.jpg?v=1571609964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tribal Spinner&#39;s Initiative (Cotton)<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handspun<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low <br>Crafted by rural and tribal artisans from Northern India</p>
+<h5>Description </h5>
+<p>Remarkably soft, this attractive kitchen towel offers a distinct texture obtained from handspun yarn and showcases the splendor of hand-done weaves. Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India. </p>
+<h5>How It's Made </h5>
+<p>First, the yarn is handspun. A blend of handspun and conventional yarn is used. This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft,) meticulous planning and a complex estimation, depending on the design.  </p>
+<p>Each of the steps - spinning of the yarn, dyeing with low impact Azo-free dyes and weaving the products on wooden pit looms - support local artisan livelihood. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:tag>Kroger</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1505056915511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>251-72-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1502399397943</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/pebble-kitchen-towel"/>
+    <title>PEBBLE Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Tribal Spinner&apos;s Initiative (Cotton)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-70-KT.Pebble.jpg?v=1571609964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tribal Spinner&#39;s Initiative (Cotton)<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handspun<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low <br>Crafted by rural and tribal artisans from Northern India</p>
+<h5>Description </h5>
+<p><span>Remarkably soft, this attractive kitchen towel offers a distinct texture obtained from handspun yarn and showcases the splendor of hand-done weaves. </span><span>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</span></p>
+<p>A Fair Trade product. Handmade by artisans in India. </p>
+<h5>How It's Made </h5>
+<p>First, the yarn is handspun. A blend of handspun and conventional yarn is used. This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft,) meticulous planning and a complex estimation, depending on the design.  </p>
+<p>Each of the steps - spinning of the yarn, dyeing with low impact Azo-free dyes and weaving the products on wooden pit looms - support local artisan livelihood. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1502399397943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>251-70-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1502395367479</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/pepper-corn-kitchen-towel"/>
+    <title>PEPPERCORN Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-16-KT.PepperCorn.jpg?v=1571609964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1502395367479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-16-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1502392746039</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/avocado-kitchen-towel"/>
+    <title>AVOCADO Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-15-KT.Avacado_REV_SKU.jpg?v=1585251421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1502392746039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-15-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1502382063671</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/blue-cheese-kitchen-towel"/>
+    <title>BLUE CHEESE Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-14-KT.BlueCheese.jpg?v=1571609964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1502382063671</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-14-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432698322999</id>
+    <published>2017-09-30T19:20:41-04:00</published>
+    <updated>2017-09-30T19:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/cranberry"/>
+    <title>CRANBERRY Kitchen Towel</title>
+    <s:type>Cotton - Handwoven</s:type>
+    <s:vendor>Physically Disabled Weavers’ Initiative</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/251-01-KT-CRANBERRY-1.jpg?v=1571609956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physically Disabled Weavers’ Initiative<br>
+        <strong>Type: </strong>Cotton - Handwoven<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 27"x19"<br>100% cotton<br>Handwoven on manual looms<br>Features a loop for hanging<br>Strong, durable construction<br>Low-impact dyes<br>Machine wash cold. Tumble dry low<br>Crafted by physically challenged artisans from Northern India</p>
+<h5>Description</h5>
+<p>Add a handmade touch to your kitchen with a handloom-woven kitchen towel. Highly absorbent and washable, Sustainable Threads' kitchen towel is sturdy, durable and a practical way to reduce use of disposable paper towels. Packaged with a belly band and a hanger, it makes an excellent host or hostess gift.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It’s Made</h5>
+<p>This textile is produced on hand-operated looms, one of the oldest methods of textile production. The weaving involves interlinking a set of vertical threads (warp) with a set of horizontal threads (weft.) meticulous planning and a complex estimation, depending on the design. <br></p>
+<p>Handwoven at a small weaving unit in Northern India by adult members of a community of physically challenged artisans, and their families. The work offers them employment, life skills training and an avenue for social acceptance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>27&quot;x19&quot;</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:tag>Kitchen Towels</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432698322999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>251-01-KT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

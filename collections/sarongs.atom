@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sustainablethreads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sustainablethreads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sustainablethreads.com/collections/sarongs.atom"/>
+  <title>SustainableThreads</title>
+  <updated>2021-03-18T12:04:57-04:00</updated>
+  <author>
+    <name>SustainableThreads</name>
+  </author>
+  <entry>
+    <id>https://sustainablethreads.com/products/6575545352383</id>
+    <published>2021-03-18T12:04:57-04:00</published>
+    <updated>2021-03-18T12:04:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/copy-of-berry-punch-sarong-4"/>
+    <title>MINT JULEP Sarong</title>
+    <s:type>Sarongs</s:type>
+    <s:vendor>Screen printers&apos; enterprise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/MintJulepsarong.jpg?v=1616083457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Screen printers&#39; enterprise<br>
+        <strong>Type: </strong>Sarongs<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Size 40"x70"</span><br><span>100% cotton</span><br><span>Hand screen printed</span><br><span data-mce-fragment="1">Low-impact dyes</span><br><span data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low</span><br data-mce-fragment="1"><span>Crafted by rural artisans from northwest India</span></p>
+<h5>Description</h5>
+<p><span>This beautiful, hand-screen printed</span><span> </span><span><span class="il">sarong</span></span><span> </span><span>is made of 100% cotton and will keep you comfortable and looking cool. A must-have for a pool party or your beach vacay! Use as a wrap around skirt, a wrap around dress, a shawl or scarf.</span></p>
+<p>A Fair Trade product. <span data-mce-fragment="1">Handmade by artisans in India. </span></p>
+<h5>How It's Made<br>
+</h5>
+<p>Artisans use low-impact dyes to screen-print. The fabric is first set up on a frame and a stencil of the design is positioned on the fabric to spread dye or ink. The process has to be repeated for different colors and the dye has to be allowed to dry completely before using a dye of a different color. Artisans have to be knowledgeable of the dyes and the fabric and how they work with each other.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hand block printed</s:tag>
+    <s:tag>Hand printed</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Sarong</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/6575545352383</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600-09-BP</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/6575537324223</id>
+    <published>2021-03-18T12:01:06-04:00</published>
+    <updated>2021-03-18T12:01:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/copy-of-berry-punch-sarong-3"/>
+    <title>TEQUILA SUNSET Sarong</title>
+    <s:type>Sarongs</s:type>
+    <s:vendor>Screen printers&apos; enterprise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/TequilaSunsetsarong.jpg?v=1616083119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Screen printers&#39; enterprise<br>
+        <strong>Type: </strong>Sarongs<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Size 40"x70"</span><br><span>100% cotton</span><br><span>Hand screen printed</span><br><span data-mce-fragment="1">Low-impact dyes</span><br><span data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low</span><br data-mce-fragment="1"><span>Crafted by rural artisans from northwest India</span></p>
+<h5>Description</h5>
+<p><span>This beautiful, hand-screen printed</span><span> </span><span><span class="il">sarong</span></span><span> </span><span>is made of 100% cotton and will keep you comfortable and looking cool. A must-have for a pool party or your beach vacay! Use as a wrap around skirt, a wrap around dress, a shawl or scarf.</span></p>
+<p>A Fair Trade product. <span data-mce-fragment="1">Handmade by artisans in India. </span></p>
+<h5>How It's Made<br>
+</h5>
+<p>Artisans use low-impact dyes to screen-print. The fabric is first set up on a frame and a stencil of the design is positioned on the fabric to spread dye or ink. The process has to be repeated for different colors and the dye has to be allowed to dry completely before using a dye of a different color. Artisans have to be knowledgeable of the dyes and the fabric and how they work with each other.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hand block printed</s:tag>
+    <s:tag>Hand printed</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Sarong</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/6575537324223</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600-04-SG</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/6575525724351</id>
+    <published>2021-03-18T11:51:25-04:00</published>
+    <updated>2021-03-18T11:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/copy-of-berry-punch-sarong-1"/>
+    <title>PARADISE Sarong</title>
+    <s:type>Sarongs</s:type>
+    <s:vendor>Screen printers&apos; enterprise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/Paradisesarong.jpg?v=1616082629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Screen printers&#39; enterprise<br>
+        <strong>Type: </strong>Sarongs<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Size 40"x70"</span><br><span>100% cotton</span><br><span>Hand screen printed</span><br><span data-mce-fragment="1">Low-impact dyes</span><br><span data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low</span><br data-mce-fragment="1"><span>Crafted by rural artisans from northwest India</span></p>
+<h5>Description</h5>
+<p><span>This beautiful, hand-screen printed</span><span> </span><span><span class="il">sarong</span></span><span> </span><span>is made of 100% cotton and will keep you comfortable and looking cool. A must-have for a pool party or your beach vacay! Use as a wrap around skirt, a wrap around dress, a shawl or scarf.</span></p>
+<p>A Fair Trade product. <span data-mce-fragment="1">Handmade by artisans in India. </span></p>
+<h5>How It's Made<br>
+</h5>
+<p>Artisans use low-impact dyes to screen-print. The fabric is first set up on a frame and a stencil of the design is positioned on the fabric to spread dye or ink. The process has to be repeated for different colors and the dye has to be allowed to dry completely before using a dye of a different color. Artisans have to be knowledgeable of the dyes and the fabric and how they work with each other.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hand block printed</s:tag>
+    <s:tag>Hand printed</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Sarong</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/6575525724351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600-06-SG</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/6575513272511</id>
+    <published>2021-03-18T11:47:27-04:00</published>
+    <updated>2021-03-18T11:47:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/copy-of-berry-punch-sarong"/>
+    <title>MOJITO Sarong</title>
+    <s:type>Sarongs</s:type>
+    <s:vendor>Screen printers&apos; enterprise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/Mojitosarong.jpg?v=1616082222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Screen printers&#39; enterprise<br>
+        <strong>Type: </strong>Sarongs<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Size 40"x70"</span><br><span>100% cotton</span><br><span>Hand screen printed</span><br><span data-mce-fragment="1">Low-impact dyes</span><br><span data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low</span><br data-mce-fragment="1"><span>Crafted by rural artisans from northwest India</span></p>
+<h5>Description</h5>
+<p><span>This beautiful, hand-screen printed</span><span> </span><span><span class="il">sarong</span></span><span> </span><span>is made of 100% cotton and will keep you comfortable and looking cool. A must-have for a pool party or your beach vacay! Use as a wrap around skirt, a wrap around dress, a shawl or scarf.</span></p>
+<p>A Fair Trade product. <span data-mce-fragment="1">Handmade by artisans in India. </span></p>
+<h5>How It's Made<br>
+</h5>
+<p>Artisans use low-impact dyes to screen-print. The fabric is first set up on a frame and a stencil of the design is positioned on the fabric to spread dye or ink. The process has to be repeated for different colors and the dye has to be allowed to dry completely before using a dye of a different color. Artisans have to be knowledgeable of the dyes and the fabric and how they work with each other.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hand block printed</s:tag>
+    <s:tag>Hand printed</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Sarong</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/6575513272511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600-02-SG</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/6569767469247</id>
+    <published>2021-03-15T16:01:38-04:00</published>
+    <updated>2021-03-15T16:01:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/copy-of-tequila-sunrise-sarong"/>
+    <title>BERRY PUNCH Sarong</title>
+    <s:type>Sarongs</s:type>
+    <s:vendor>Screen printers&apos; enterprise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/BerryPunchsarong.jpg?v=1615838387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Screen printers&#39; enterprise<br>
+        <strong>Type: </strong>Sarongs<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 40"x70"<br>100% cotton<br>Hand screen printed<br><span data-mce-fragment="1">Low-impact dyes</span><br><span data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low</span><br data-mce-fragment="1">Crafted by rural artisans from northwest India</p>
+<h5>Description</h5>
+<p><span>This beautiful, hand-screen printed</span><span> </span><span><span class="il">sarong</span></span><span> </span><span>is made of 100% cotton and will keep you comfortable and looking cool. A must-have for a pool party or your beach vacay! Use as a wrap around skirt, a wrap around dress, a shawl or scarf.</span></p>
+<p>A Fair Trade product. <span data-mce-fragment="1">Handmade by artisans in India. </span></p>
+<h5>How It's Made<br>
+</h5>
+<p>Artisans use low-impact dyes to screen-print. The fabric is first set up on a frame and a stencil of the design is positioned on the fabric to spread dye or ink. The process has to be repeated for different colors and the dye has to be allowed to dry completely before using a dye of a different color. Artisans have to be knowledgeable of the dyes and the fabric and how they work with each other.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hand block printed</s:tag>
+    <s:tag>Hand printed</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Sarong</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/6569767469247</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600-08-SG</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/6565666848959</id>
+    <published>2021-03-15T14:21:48-04:00</published>
+    <updated>2021-03-15T14:21:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/copy-of-ambi-aqua-scarf-3"/>
+    <title>TEQUILA SUNRISE Sarong</title>
+    <s:type>Sarongs</s:type>
+    <s:vendor>Screen printers&apos; enterprise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/TequilaSunrisesarong.jpg?v=1615568593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Screen printers&#39; enterprise<br>
+        <strong>Type: </strong>Sarongs<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Size 40"x70"</span><br><span>100% cotton</span><br><span>Hand screen printed</span><br><span data-mce-fragment="1">Low-impact dyes</span><br><span data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low</span><br data-mce-fragment="1"><span>Crafted by rural artisans from northwest India</span></p>
+<h5>Description</h5>
+<p><span>This beautiful, hand-screen printed</span><span> </span><span><span class="il">sarong</span></span><span> </span><span>is made of 100% cotton and will keep you comfortable and looking cool. A must-have for a pool party or your beach vacay! Use as a wrap around skirt, a wrap around dress, a shawl or scarf.</span></p>
+<p>A Fair Trade product. <span data-mce-fragment="1">Handmade by artisans in India. </span></p>
+<h5>How It's Made<br>
+</h5>
+<p>Artisans use low-impact dyes to screen-print. The fabric is first set up on a frame and a stencil of the design is positioned on the fabric to spread dye or ink. The process has to be repeated for different colors and the dye has to be allowed to dry completely before using a dye of a different color. Artisans have to be knowledgeable of the dyes and the fabric and how they work with each other.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hand block printed</s:tag>
+    <s:tag>Hand printed</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Sarong</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/6565666848959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600-03-SG</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

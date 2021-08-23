@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sustainablethreads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sustainablethreads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sustainablethreads.com/collections/throws.atom"/>
+  <title>SustainableThreads</title>
+  <updated>2017-09-30T19:49:37-04:00</updated>
+  <author>
+    <name>SustainableThreads</name>
+  </author>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707661879</id>
+    <published>2017-09-30T19:49:37-04:00</published>
+    <updated>2017-09-30T19:49:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/harda-border"/>
+    <title>HARDA BORDER Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-90-TH-2.jpg?v=1605061804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with <em>harda </em>(botanical name Terminalia chebula,) an Ayurvedic spice known for its medicinal properties<br>Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India </p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707661879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-90-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707629111</id>
+    <published>2017-09-30T19:49:18-04:00</published>
+    <updated>2017-09-30T19:49:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/harda-block"/>
+    <title>HARDA  BLOCK Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-89-TH-2.jpg?v=1605061784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with <em>harda </em>(botanical name Terminalia chebula,) an Ayurvedic spice known for its medicinal properties<br>Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India </p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707629111</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-89-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707563575</id>
+    <published>2017-09-30T19:49:00-04:00</published>
+    <updated>2017-09-30T19:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/indigo-block"/>
+    <title>INDIGO BLOCK Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-88-TH-2.jpg?v=1605061828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with indigo, a blue dye obtained from the indigo plant<br>Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India </p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707563575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-88-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707530807</id>
+    <published>2017-09-30T19:48:46-04:00</published>
+    <updated>2017-09-30T19:48:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/haldi-block"/>
+    <title>HALDI BLOCK Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-87-TH-2.jpg?v=1605061747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with turmeric, a bright yellow spice used in cooking and known for its powerful, healing properties<br>Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India </p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707530807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-87-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707399735</id>
+    <published>2017-09-30T19:48:36-04:00</published>
+    <updated>2017-09-30T19:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/haldi-border"/>
+    <title>HALDI BORDER Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-86-TH-2.jpg?v=1605061767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with turmeric, a bright yellow spice used in cooking and known for its powerful, healing properties<br>Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India </p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707399735</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-86-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707366967</id>
+    <published>2017-09-30T19:48:18-04:00</published>
+    <updated>2017-09-30T19:48:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/indigo-border"/>
+    <title>INDIGO BORDER Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-85-TH-2.jpg?v=1605061857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with indigo, a blue dye obtained from the indigo plant<br>Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India </p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707366967</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-85-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707334199</id>
+    <published>2017-09-30T19:47:45-04:00</published>
+    <updated>2017-09-30T19:47:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/color-block"/>
+    <title>COLOR BLOCK Throw</title>
+    <s:type>Natural Dye Cruelty-free Silk</s:type>
+    <s:vendor>Women Weaver&apos;s Trust (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-36-TH-1-e1530915653902.jpg?v=1571609962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Women Weaver&#39;s Trust (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Natural Dye Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50”x70”<br> 100% silk<br> Cruelty-free<br> Handspun <br>Handwoven on bamboo looms<br>Hand-braided fringe<br>Dyed with indigo, a blue dye obtained from the indigo plant; turmeric, a bright yellow spice used in cooking and known for its powerful, healing properties; and <em>harda</em> (botanical name Terminalia chebula,) an Ayurvedic spice known for its medicinal properties<br> Dry clean recommended<br>Crafted by indigenous women weavers from Eastern India <br></p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful, cruelty-free silk throw. Handwoven by skilled indigenous artisans, this unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. No pesticide, chemicals, or modern machines are used in any of the production processes. A minimalist design complements its luxurious texture &amp; fine elegance.</p>
+<p>A Fair Trade product. Handmade by artisans in India.</p>
+<h5>How It's Made</h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process.</p>
+<p>The silk is woven on <em>zidagar </em>frame looms which are crafted from bamboo and other locally available materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>natural dye</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707334199</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>700-36-TH</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707203127</id>
+    <published>2017-09-30T19:47:26-04:00</published>
+    <updated>2017-09-30T19:47:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/berry-2"/>
+    <title>BERRY Throw</title>
+    <s:type>Dyed Cruelty-free Silk</s:type>
+    <s:vendor>Tribal Spinners’ Enterprise (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-203-TH-2.jpg?v=1605061719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tribal Spinners’ Enterprise (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Dyed Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50"x70"<br> 100% silk<br> Cruelty-free<br> Handspun <br>Handwoven on hand-operated looms<br>Hand-braided fringe<br>Azo free dyes<br> Dry clean recommended <br>Crafted by tribal and rural artisans from Northern India<br></p>
+<h5>Description</h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful cruelty-free silk throw. This unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. Silk threads are handspun then handwoven to create this exclusive piece!  </p>
+<p>Cocoon cultivators, spinners, dyers, weavers and tailors are all part of the community of rural artisans who benefit from this effort. </p>
+<p> A Fair Trade product. Handmade by artisans in India.  </p>
+<h5>How It's Made  </h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process. </p>
+<p>Artisans handspin yarn, dye with low-impact, Azo-free dyes, and handweave the products on wooden pit looms. Each of these steps support local artisan livelihood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Berry</s:tag>
+    <s:tag>Cruelty-free</s:tag>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707203127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>700-203-TH</s:sku>
+      <s:grams>345</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sustainablethreads.com/products/1432707137591</id>
+    <published>2017-09-30T19:47:08-04:00</published>
+    <updated>2017-09-30T19:47:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sustainablethreads.com/products/gold-3"/>
+    <title>GOLD Throw</title>
+    <s:type>Dyed Cruelty-free Silk</s:type>
+    <s:vendor>Tribal Spinners’ Enterprise (Cruelty-free Silk)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2010/2557/products/700-201-TH-2.jpg?v=1605061734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tribal Spinners’ Enterprise (Cruelty-free Silk)<br>
+        <strong>Type: </strong>Dyed Cruelty-free Silk<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 50"x70"<br>100% silk<br>Cruelty-free<br>Handspun <br>Handwoven on hand-operated looms <br>Hand-braided fringe<br>Azo free dyes<br>Dry clean recommended  <br>Crafted by tribal and rural artisans from Northern India<br></p>
+<h5>Description </h5>
+<p>Wrap yourself in the warmth and luxury of this beautiful cruelty-free silk throw. This unique, luxurious silk is considered cruelty-free and compassionate as silk worms aren't harmed, unlike in conventional silk-making, in which cocoon extraction involves killing silk worms in boiling water. Empty cocoons are obtained after a patient wait for silk worms to metamorphose into moths. Silk threads are handspun then handwoven to create this exclusive piece!  </p>
+<p>Cocoon cultivators, spinners, dyers, weavers and tailors are all part of the community of rural artisans who benefit from this effort. </p>
+<p> A Fair Trade product. Handmade by artisans in India.  </p>
+<h5>How It's Made  </h5>
+<p>This special silk known as cruelty-free silk (also known as <em>Ahimsa </em>or non-violent silk) is the most humane of all silk production practices. The cocoon is harvested after the silkworms turn into moths and vacate them. The rupture causes the long, continuous silk strands to be broken into several shorter strands. These are handspun on a spinning wheel and may have little nubs where two strands join. This process is highly valued, and offers a greater degree of fiber purity, emphasizing the natural luster of the silk. In contrast, in conventional silks, the silkworms within the cocoons are killed as part of the process. </p>
+<p>Artisans handspin yarn, dye with low-impact, Azo-free dyes, and handweave the products on wooden pit looms. Each of these steps support local artisan livelihood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cruelty-free Silk</s:tag>
+    <s:tag>hand spun</s:tag>
+    <s:tag>handwoven</s:tag>
+    <s:tag>Throw</s:tag>
+    <s:variant>
+      <id>https://sustainablethreads.com/products/1432707137591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>700-201-TH</s:sku>
+      <s:grams>345</s:grams>
+    </s:variant>
+  </entry>
+</feed>
